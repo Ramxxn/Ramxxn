@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js"/>
   <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss"/>
   <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
 </p>
 
 <p align="center">
