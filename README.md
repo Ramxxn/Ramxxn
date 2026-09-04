@@ -67,12 +67,10 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramxxn&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramxxn&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Ramxxn&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
+    alt="Ramxxn's GitHub Streak"
+  />
 </p>
 
 
