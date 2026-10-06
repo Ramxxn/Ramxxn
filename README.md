@@ -14,13 +14,6 @@
 </p>
 
 
-<!-- Knight Animation -->
-
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif"/>
-</p>
-
-
 <!-- Tech Stack -->
 
 <h2 align="center">Tech Stack</h2>
