@@ -1,15 +1,16 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Raman%20Kumar&animation=fadeIn&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:1E293B&height=110&section=header&text=Raman%20Kumar&fontSize=36&fontColor=FFFFFF&fontAlignY=55" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/ramaninfo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
+  &nbsp;
   <a href="mailto:ram.wxyz0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
 </p>
 
@@ -43,27 +44,6 @@
   <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
   <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render"/>
-</p>
-
-
-<!-- Snake -->
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://github.com/Ramxxn/Ramxxn/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-
-<!-- GitHub Stats -->
-
-<h2 align="center">GitHub Activity</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ramxxn&theme=dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&dates=8b949e&hide_border=true"
-    alt="Ramxxn's GitHub Streak"
-  />
 </p>
 
 
